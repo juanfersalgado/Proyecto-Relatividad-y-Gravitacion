@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Proyecto.ipynb (entregado)
+- Proyecto.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Hubo un inicio temprano, pero con periodos amplios sin ac
 
 ## Retroalimentación
 
-- Archivo revisado: Proyecto.ipynb
+- Archivo revisado: Proyecto.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -40,12 +40,24 @@ Interpretación breve: Hubo un inicio temprano, pero con periodos amplios sin ac
 
 ### Aspectos por mejorar
 
-- Incluye una sección formal de conclusiones al final del notebook, con hallazgos físicos concretos y no solo descripción de gráficas.
-- Cierra el proyecto con una imagen final del disco (resultado síntesis) y explica de forma breve cómo se construyó a partir de las secciones previas.
-- Aclara el alcance relativista: si trabajas principalmente con Schwarzschild, justifica esa decisión y explicita qué aspecto del problema queda fuera por no incluir otras extensiones.
-- Reordena el notebook para que cada bloque grande termine con una mini-interpretación del resultado obtenido (2-3 líneas).
+- Incluye una sección formal de conclusiones al final del notebook, con hallazgos físicos concretos y no solo descripción de gráficas. [Mejorado]
+- Es importante eliminar el código de la clase que no contribuye con el objetivo final del proyecto. [Parcialmente mejorado]
+- Cierra el proyecto con una imagen final del disco (resultado síntesis) y explica de forma breve cómo se construyó a partir de las secciones previas. [Mejorado]
+- Aclara el alcance relativista: si trabajas principalmente con Schwarzschild, justifica esa decisión y explicita qué aspecto del problema queda fuera por no incluir otras extensiones. [Mejorado]
+- Reordena el notebook para que cada bloque grande termine con una mini-interpretación del resultado obtenido (2-3 líneas). [Mejorado]
+- No hay ningún cálculo de geodésicas nulas que muestre la imagen del disco de acreción como se vería desde una cierta dirección. Debes incluirla. [Mejorado]
+- No hay simulación del jet astrofísico. Debes incluirla. [No mejorado]
 
 ### Valoración global
 
 - Trabajo técnicamente correcto y con buen punto de partida. Para llevarlo a un nivel más sólido como informe científico, falta reforzar el cierre interpretativo y la presentación del resultado final integrado.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora para fortalecer el informe final.
+
+## Valoración final
+
+- Mejoras implementadas: 3,93 (70%)
+- Aplicación al repositorio: 3,50 (10%)
+- Aspectos positivos: 4,00 (10%)
+- Valoración global: 3,80 (10%)
+
+**Nota final (redondeada)**: 3,9
